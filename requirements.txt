@@ -1,0 +1,4 @@
+pyTest
+pyTest-cov
+pylint
+black
